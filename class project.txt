@@ -1,0 +1,33 @@
+# class project
+10-12 slides
+download APIs
+indeed
+linkedin
+glassdoor
+BLS
+
+
+Most in demand skills and jobs (Indeed)
+- SF bay area
+- Data jobs (Analyst, Engineer, Scientist)
+- how many people in a job category, title
+- what’s the job with highest hiring rate
+- turnover
+-  most searched jobs
+- salary comparison between locations, category, company
+- what are the keywords/skills that appear in resumes (av
+- wordcloud
+- last job date
+- job trends (BLS, other sites?)
+- clustering?
+
+Class Project Process
+- Download Indeed API data (job search and get job)
+- Narrow down what questions to concentrate
+- Data exploration - How many pivots and charts
+- Create data frames, dictionary, lists, types
+- Data cleanup - sort, loc
+- Run statistical analysis - counts, avg, std dev
+- Plotting
+- ppt slides
+- practice presentation
